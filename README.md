@@ -7,3 +7,10 @@ Car Sales - Data Analytics Project
 5. Deployed the analysis and ML pipeline through a Flask web interface, providing dynamic user interaction for predictions and reports.
 6. Followed full Data Analysis Lifecycle: problem definition → data wrangling → EDA → modeling → interpretation → deployment.
 
+![img alt](https://github.com/Piyush01-ui/Car-Sales/blob/main/Images/image%20(6).png?raw=true)
+![img alt](https://github.com/Piyush01-ui/Car-Sales/blob/main/Images/image%20(5).png?raw=true)
+![img alt](https://github.com/Piyush01-ui/Car-Sales/blob/main/Images/image%20(4).png?raw=true)
+![img alt](https://github.com/Piyush01-ui/Car-Sales/blob/main/Images/image%20(3).png?raw=true)
+![img alt](https://github.com/Piyush01-ui/Car-Sales/blob/main/Images/image%20(2).png?raw=true)
+![img alt](https://github.com/Piyush01-ui/Car-Sales/blob/main/Images/image%20(1).png?raw=true)
+![img alt](https://github.com/Piyush01-ui/Car-Sales/blob/main/Images/image.png?raw=true)
